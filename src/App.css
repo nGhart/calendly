@@ -1,0 +1,223 @@
+/* font-family: 'Abril Fatface', cursive;
+font-family: 'Pacifico', cursive; */
+* {
+  font-family: 'Abril Fatface', cursive;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+}
+
+a:active {
+  text-decoration: wavy;
+}
+
+.navBar {
+  background-color: rgb(16, 4, 122);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin-bottom: 80px;
+}
+
+.white {
+  color: white;
+  margin-right: 30px;
+}
+
+/* Footer */
+.footer h4 {
+  color: rgb(16, 4, 122);
+}
+
+.footer p {
+  font-size: 12px;
+  line-height: 10px;
+}
+
+/* Home */
+.sectionTwo {
+  margin: 50px 0;
+  padding: 50px;
+  background-color: aliceblue;
+}
+
+.sectionTwo h4 {
+  margin: 10px 200px;
+}
+
+.flex-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin-top: 20px;
+}
+
+/* Construction */
+button {
+  background-color: rgb(16, 4, 122);
+  color: white;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+}
+
+.section {
+  margin: 80px auto;
+}
+
+.tellMe {
+  display: flex;
+  justify-content: center;
+}
+
+.section4 {
+  background: rgb(0, 212, 255);
+  background: linear-gradient(90deg, rgba(0, 212, 255, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(37, 18, 166, 1) 100%);
+  height: 200px;
+
+}
+
+.jumbotron {
+  padding: 30px;
+  color: white;
+}
+
+.jumbotron h3 {
+
+  color: white;
+}
+
+
+
+
+
+
+
+.banner {
+  margin: 50px auto;
+}
+
+.sectionOne {
+  margin: 100px auto 100px;
+}
+
+.med {
+  justify-content: center;
+  margin: 10px auto;
+}
+
+.media {
+  margin: 10px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.sectionThree {
+  margin: 50px auto;
+}
+
+h3 {
+  font-weight: 600;
+  color: midnightblue;
+}
+
+.section h1 {
+  margin-top: 30px;
+}
+
+.section h4 {
+  margin: 40px auto;
+}
+
+
+.footer {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  color: aliceblue;
+  font-size: 40px;
+}
+
+.learnMore {
+  background-color: aliceblue;
+  color: black;
+  border: none;
+}
+
+h5 {
+  font-size: 40px;
+}
+
+.sectionD h2 {
+  text-align: center;
+  color: midnightblue;
+}
+
+.sectionD .thumbnail {
+  border-radius: 10px;
+}
+
+.sectionc p {
+  margin: 20px 5px;
+}
+
+.manage {
+  margin-bottom: 40px;
+}
+
+.manage button {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+}
+
+.sectionb {
+  background-image: url(./images/m4.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.sectionb h4 {
+  text-align: center;
+  color: midnightblue;
+  font-size: 40px;
+  padding-top: 40px;
+}
+
+.sectionc .thumbnail {
+  border-radius: 25px;
+  box-shadow: 4px 4px 2px 5px gainsboro;
+  margin: auto 15px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.sectionE {
+  margin-top: 80px;
+}
+
+.sectionE h2 {
+  color: black;
+}
+
+.sectionF {
+  text-align: center;
+  margin-bottom: 30px;
+}
